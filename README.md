@@ -1,8 +1,6 @@
 # [ReduxRefactor](https://redux-store-2rvq.onrender.com/)
 Full-stack e-commerce platform refactored from React API to Redux.
 
-## Description
-
 ## Usage
 **Features**
 - User authentication
@@ -49,6 +47,11 @@ This application is deployed using [Render](https://redux-store-2rvq.onrender.co
    <img src="./assets/purchase.png" alt="Screenshot" width="550"/>
    </div>
    <br/>
+
+## Walk Through
+Link to live site: 
+click here &rarr; 
+[https://ecommerce-redux-n2lz.onrender.com/]([https://google-books-efki.onrender.com/](https://ecommerce-redux-n2lz.onrender.com/))
 
 ## Technologies Employed
 **Frontend:**  
