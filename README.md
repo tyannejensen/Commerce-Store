@@ -3,21 +3,6 @@ Full-stack e-commerce platform refactored from React API to Redux.
 
 ## Description
 
-
-## Table of Contents
-1. [Description](#description)
-2. [Table of Contents](#table-of-contents)
-3. [Usage](#usage)
-4. [Installation](#installation)
-5. [Demonstration](#demonstration)
-6. [Technologies Employed](#technologies-employed)
-7. [Future Development](#future-development)
-8. [Contributing](#contributing)
-9. [Credits](#credits)
-10. [Tests](#tests)
-11. [Questions](#questions)
-12. [License](#license)
-
 ## Usage
 **Features**
 - User authentication
@@ -96,17 +81,5 @@ No tests are needed beyond visiting the website.
 
 ## Questions
 If you have any questions, please reach out to me at:
-- Email: [skylarkline16@gmail.com](mailto:skylarkline16@gmail.com)
-- GitHub: [skylark-shae](https://github.com/skylark-shae)
-
-## License
-
-This project is licensed under the MIT license.
-
-The MIT License is a permissive software license originating at the Massachusetts Institute of Technology (MIT) in the late 1980s. As a permissive license, it puts very few restrictions on reuse and therefore has high license compatibility.
-
-For more information, visit [MIT Licensing](https://choosealicense.com/licenses/mit/).
-
----
-
-© 2025 Sky-Shae Design. All Rights Reserved.
+- Email: [tyanne.codes@gmail.com](mailto:tyanne.codes@gmail.com)
+- GitHub: [tyannejensen](https://github.com/tyannejensen)
